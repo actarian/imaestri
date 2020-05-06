@@ -5,7 +5,7 @@
       "name": "Ring Chair",
       "likes": 82,
       "added": false,
-      "ar": "models/worn_brown_boots.usdz",
+      "ar": "models/leather-shoes.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "colorful_studio_2k.hdr",
       "items": [
@@ -36,9 +36,9 @@
       "name": "Andromeda Sideboard",
       "likes": 43,
       "added": false,
-      "ar": "models/worn_brown_boots.usdz",
+      "ar": "models/leather-shoes.usdz",
       "envMapFolder": "equirectangular/",
-      "envMapFile": "adams_place_bridge_2k.hdr",
+      "envMapFile": "grigio.hdr",
       "items": [
         {
           "id": 41,
@@ -69,7 +69,7 @@
       "added": false,
       "ar": "models/leather-shoes.usdz",
       "envMapFolder": "equirectangular/",
-      "envMapFile": "leadenhall_market_2k.hdr",
+      "envMapFile": "photo_studio_01_2k.hdr",
       "items": [
         {
           "id": 11,
@@ -98,9 +98,9 @@
       "name": "Time Sofa",
       "likes": 146,
       "added": false,
-      "ar": "models/Mens_Oxford_Shoes.usdz",
+      "ar": "models/leather-shoes.usdz",
       "envMapFolder": "equirectangular/",
-      "envMapFile": "leadenhall_market_2k.hdr",
+      "envMapFile": "colorful_studio_2k.hdr",
       "items": [
         {
           "id": 21,
@@ -126,10 +126,10 @@
     },
     {
       "id": 5,
-      "name": "riflessi",
+      "name": "Vittoria Chair",
       "likes": 372,
       "added": false,
-      "ar": "models/Mens_Oxford_Shoes.usdz",
+      "ar": "models/leather-shoes.usdz",
       "envMapFolder": "equirectangular/",
       "envMapFile": "leadenhall_market_2k.hdr",
       "items": [
@@ -149,9 +149,9 @@
         {
           "id": 23,
           "type": "text",
-          "title": "Riflessi",
-          "abstract": "Accent & Coffee Tables",
-          "description": "Accent & Coffee Tables"
+          "title": "Forniture",
+          "abstract": "Contemporary, classical, vintage and modern Italian pieces of furniture.",
+          "description": "Vittoria Chair by Riflessi is a fully upholstered elegant chair with a modern Italian design."
         }
       ]
     }
